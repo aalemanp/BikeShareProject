@@ -24,7 +24,7 @@ For the purposes of this case study, the datasets to be used for this scenario a
 It is based on data from the City of Chicago’s bikeshare service called Divvy, operated by Lyft Bikes and Scooters, LLC. The license outlines the terms and conditions of this publicly available data. It should be noted that any personal information about its users are not included, maintaining the anonymity of its users. However, the data is reliable, current, and complete enough for the purposes of this project.
 
 The data is stored in csv files, the most recent files containing a month’s worth of data while the oldest file which dates back to 2013 has an entire year’s worth of information. The data itself is organized in a wide format where every row is an independent entry about a singular bike ride, with a corresponding unique ride identification string. The data includes information such as:
-- an unique trip id
+- a unique trip id
 - the date and time each bike trip began and ended
 - the stations that the bike trip left from and arrived at (including station name, id, and GPS coordinates)
 - the type of bike used (electric, classic, or docked)
