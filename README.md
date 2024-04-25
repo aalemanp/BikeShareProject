@@ -238,7 +238,7 @@ FROM(
 WHERE trip_duration BETWEEN 1 AND 500 AND member_casual = 'casual'
 GROUP BY rideable_type
 ```
-Annual members appeared to use either the classic and electric bike equally. However, the casual users tended towards using the electric bike by just over 10% as seen in the pir charts below:
+Annual members appeared to use either the classic and electric bike equally. However, the casual users tended towards using the electric bike by just over 10% as seen in the pie charts below:
 
 ![Member User Bike Preference](https://github.com/aalemanp/BikeShareProject/assets/154280707/2925a10c-5a05-4c9e-8844-dc2148b7076a) ![Casual User Bike Preference](https://github.com/aalemanp/BikeShareProject/assets/154280707/e097c1ab-f6ec-495c-842a-7f8da86a479f)
 
